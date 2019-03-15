@@ -4,10 +4,6 @@ Websites like pastebin are popular websites for storing and sharing text. Though
 
 The purpose of this project is to develop a system that periodically pulls the data from these sites and analyze the data to find indicators.  
 
-# ProviderScraper
-Scraper is used to pull enries periodically and store them in the database. Currently only pastebin.com is supported.
-
-# ProviderAnalyzer
 Analyzer performs following tasks
 1. Identify API, keys dumped post exploitation
 2. Domain dumps for facilitating further attacks
